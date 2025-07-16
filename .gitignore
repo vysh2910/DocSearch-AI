@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+**/openbsd-doc-raw/
 # Distribution / packaging
 .Python
 build/
